@@ -1,0 +1,17 @@
+body {
+    background-color:#6c5ce7;
+}
+
+.App {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+}
+
+.Search {
+    display:flex;
+    flex-direction: row;
+    padding: 3px 10px 3px;
+    margin-top:30px;
+}
